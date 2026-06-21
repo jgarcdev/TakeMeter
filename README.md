@@ -130,11 +130,9 @@ Both models were evaluated on the same 30-example held-out test set (15 `lore`, 
 
 | Message | True Label | Predicted | Confidence |
 |---|---|---|---|
-| "" |  |  | 0 |
-| "" |  |  | 0 |
-| "" |  |  | 0 |
-
-<!-- Sentence -->
+| "Another stat is attack speed, with 183 you can max that stat at 250 with all ephnel buffs + perfume" | build | build | 0.53 |
+| "Yeah, she doesn't say it outright. But I felt like it was implied, because she snapped at Chii pretty hard when being made to consider the possibility of reviving him" | lore | lore | 0.54 |
+| "Reverse >>> desire > voidsteal" | build | build | 0.53 |
 
 ## Reflection
 
