@@ -2,12 +2,9 @@
 
 ## Community
 
-The community I chose is the Discord server for a game called SoulWorker. I chose this community because I am a member of it 
-and I love the game.
+The community I chose is the Discord server for a game called SoulWorker. I chose this community because I am a member of it and I love the game.
 
-This community is a good fit for a classification task 
-as the types of messages are varied and moreso, the server 
-is laid out in a way that makes it easy to categorize messages into different channels based on their content.
+This community is a good fit for a classification task as the types of messages are varied and moreso, the server is laid out in a way that makes it easy to categorize messages into different channels based on their content.
 
 ## Labels
 
@@ -35,21 +32,13 @@ This label will be used for messages that provide tips and advice on how to buil
 Example 1:
 
 ```
-Right click to keep red ring up
-444 buffs
 Right Click -> 444 -> 11 -> 222 -> 666 -> Ariel 3 2 -> 55 -> 33 <-- Really only cast 33 if Skills 11 isnt already off cooldown
-Most if not all damage comes from
-Skills 11 and 22
-They need to be chained
-Chainsaw meltdown state buffs damage aoutout substantialy to skill already casted on field
 ```
 
 Example 2:
 
 ```
-Valor/x/enlighten x5 on Chii
 Gold weapon for general and red for ranking
-Red is slightly better assuming you get at least 2+ enlighten procs (tera) per rotation
 ```
 
 ## Edge Cases

@@ -1,0 +1,11 @@
+{
+  "baseline_accuracy": 0.9667,
+  "finetuned_accuracy": 1.0,
+  "improvement": 0.0333,
+  "test_set_size": 30,
+  "label_map": {
+    "lore": 0,
+    "build": 1
+  },
+  "model": "distilbert-base-uncased"
+}
